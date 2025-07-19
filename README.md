@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Lab Logic Improvements Statement
 
-## Getting Started
+## Overview
 
-First, run the development server:
+During the development process, the logics that were implemented during the lab sessions have been significantly improved upon. Claude AI was utilized as a valuable resource to gain headway and develop a deeper understanding of the AI logic implementation and winner determination algorithms.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Key Improvements Made
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### AI Logic Enhancement
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Enhanced AI decision-making logic for more strategic gameplay
+- Gained deeper understanding of artificial intelligence algorithms through Claude collaboration
+- Improved algorithm efficiency and decision-making processes
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Winner Logic Refinement
 
-## Learn More
+- Refined winner detection algorithms for improved accuracy and efficiency
+- Implemented more robust game state evaluation
+- Optimized performance for faster result determination
 
-To learn more about Next.js, take a look at the following resources:
+### Clean Code Implementation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Applied clean code techniques to maximize code readability and maintainability
+- Implemented proper code organization and structure principles
+- Incorporated meaningful variable naming conventions and comprehensive comments
+- Enhanced code modularity and separation of concerns
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Outcome
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+These improvements resulted in a more robust, understandable, and maintainable codebase that builds upon the foundational concepts established during the lab sessions. The collaboration with Claude AI proved instrumental in achieving these enhancements while maintaining code quality standards.
