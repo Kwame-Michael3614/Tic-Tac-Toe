@@ -59,7 +59,7 @@ export default function Home() {
         // Always optimal
         return minimax(boardState, player, true).index;
     }
-  }, [minimax]);
+  }, []);
 
   // Minimax algorithm for optimal AI play
   const minimax = useCallback((board, player, isMaximizing, depth = 0) => {
