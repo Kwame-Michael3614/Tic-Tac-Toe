@@ -1,7 +1,6 @@
 "use client";
 import { useState, useCallback, useMemo, useEffect } from "react";
 import Square from "./square.jsx"; 
-import Image from "next/image";
 
 const DIFFICULTY_LEVELS = {
   EASY: 'easy',
